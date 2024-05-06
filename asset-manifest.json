@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/NST/static/css/main.699bb1cb.css",
+    "main.js": "/NST/static/js/main.6a12f8e6.js",
+    "static/media/signup14.jpg": "/NST/static/media/signup14.a61443b8aa5f75c723cf.jpg",
+    "static/media/style.jpg": "/NST/static/media/style.e34a0b8c40d8a60b199e.jpg",
+    "static/media/in.jpg": "/NST/static/media/in.e8512a2e0128e459a1dc.jpg",
+    "static/media/tenor2.gif": "/NST/static/media/tenor2.95c2ab2af33c274774aa.gif",
+    "static/media/img3.jpg": "/NST/static/media/img3.e153b74d282332fca8af.jpg",
+    "static/media/img2.jpg": "/NST/static/media/img2.a48819517c3ebc681aaa.jpg",
+    "static/media/out.png": "/NST/static/media/out.2c6b0f51ad7d0e693715.png",
+    "static/media/img4.jpg": "/NST/static/media/img4.9185d406e4f23ab7605a.jpg",
+    "static/media/lander4.jpg": "/NST/static/media/lander4.8de31dad0a6671856299.jpg",
+    "static/media/login1.jpg": "/NST/static/media/login1.9a107540591088522fa2.jpg",
+    "static/media/img1.jpg": "/NST/static/media/img1.0fb21f1899bec7f953b9.jpg",
+    "static/media/icon.png": "/NST/static/media/icon.d54b5cea3dabfb92c990.png",
+    "index.html": "/NST/index.html",
+    "main.699bb1cb.css.map": "/NST/static/css/main.699bb1cb.css.map",
+    "main.6a12f8e6.js.map": "/NST/static/js/main.6a12f8e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.699bb1cb.css",
+    "static/js/main.6a12f8e6.js"
+  ]
+}
